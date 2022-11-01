@@ -4,5 +4,7 @@ GUI Development based on Python for standalone deepdream, deepdream was a image 
 # Resources :
 
 https://cloud.google.com/tpu/docs/inception-v3-advanced
+
 https://ai.googleblog.com/2015/07/deepdream-code-example-for-visualizing.html
+
 https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
