@@ -2,6 +2,10 @@
 
 DeepDreamX is stanalone script I have developed to perfrom Inceptionism, it is also acts as a graphical user interface (GUI) that facilitates standalone deep dream image processing, via one click image selection and result viewing. DeepDream, originally a project by Google, leverages the Caffe library developed by UC Berkeley to perform a Machine Learning technique known as Inceptionism.
 
+Original Image             |  Inception
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/himanshuxd/DeepDreamX/master/parallax.jpg)  |  ![](https://raw.githubusercontent.com/himanshuxd/DeepDreamX/master/parallax_dream.png)
+
 ## Overview
 DeepDreamX provides a user-friendly interface to apply the deep dream algorithm to images, creating visually fascinating and dream-like renditions. The project builds upon Google's original deep dream concept and aims to make the process more accessible through a Python-based GUI image selection and also saving the original image and inception to project root folder with a generated `result_viewer.html` for easy observation.
 
