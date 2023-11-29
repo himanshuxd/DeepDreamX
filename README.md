@@ -1,6 +1,6 @@
 # DeepDreamX
 
-DeepDreamX is standalone script I have developed to perform Inceptionism, it is also acts as a graphical user interface (GUI) that facilitates standalone deep dream image processing, via one click image selection and result viewing. DeepDream, originally a project by Google, leverages the Caffe library developed by UC Berkeley to perform a Machine Learning technique known as Inceptionism.
+DeepDreamX is standalone script I have developed to perform Inceptionism, it is also acts as a graphical user interface (GUI) that facilitates deep dream image processing, via one click image selection and result viewing. DeepDream, originally a project by Google, leverages the Caffe library developed by UC Berkeley to perform a Machine Learning technique known as Inceptionism.
 
 Original Image             |  Inception
 :-------------------------:|:-------------------------:
