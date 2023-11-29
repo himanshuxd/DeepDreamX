@@ -61,7 +61,7 @@ def deep_dream(image_path, result_path):
         return img
 
     step = 0.01
-    iterations = 20
+    iterations = 100
     max_loss = 15.0
 
     for layer_name in layer_settings.keys():
@@ -113,11 +113,11 @@ html_content = f"""
             justify-content: space-around;
             align-items: center;
             height: 100vh;
-            margin: 0;
+            margin: 10;
         }}
         img {{
-            max-width: 45%;
-            max-height: 80vh;
+            max-width: 80%;
+            max-height: 150vh;
         }}
     </style>
 </head>
