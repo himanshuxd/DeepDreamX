@@ -6,6 +6,7 @@ import shutil
 import tensorflow as tf
 from tensorflow.keras.applications import inception_v3
 from tensorflow.keras.preprocessing import image as keras_image
+import webbrowser
 
 file_path = ""
 result_path = ""
@@ -137,5 +138,4 @@ with open("result_viewer.html", "w") as html_file:
     html_file.write(html_content)
 
 # Open the generated HTML file in the default web browser
-import webbrowser
 webbrowser.open("result_viewer.html")
